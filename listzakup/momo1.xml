@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<catalog>
+   <book >
+     <id>1423154215</id>
+		<nazwa>Mleko</nazwa>
+		<ilość>2</ilość>
+<zrobione>false</zrobione>
+	 
+   </book>
+   <book >
+      <id>1423154211</id>
+		<nazwa>Chleb</nazwa>
+		<ilość>3</ilość>
+<zrobione>false</zrobione>	  
+   </book>
+   <book >
+      	<id>14231541</id>
+		<nazwa>Ogórek</nazwa>
+		<ilość>4</ilość>
+<zrobione>false</zrobione>
+</book>
+   <book >
+     <id>14</id>
+		<nazwa>Jaja</nazwa>
+		<ilość>2</ilość>
+<zrobione>true</zrobione>	
+	 
+   </book>
+   <book >
+      <id>122</id>
+		<nazwa>Majonez</nazwa>
+		<ilość>3</ilość>
+	  <zrobione>true</zrobione>	
+   </book>
+   <book >
+      	<id>143</id>
+		<nazwa>Pomidor</nazwa>
+		<ilość>4</ilość>
+<zrobione>true</zrobione>	
+</book>
+
+
+</catalog>

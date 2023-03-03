@@ -1,0 +1,55 @@
+h1 {
+  font-size:40dpi;
+
+	
+}
+#nagl *{
+	text-align:center;
+background-color:#ffef00;
+}
+
+ body {
+    background: #ccc;
+    font-family: 'Roboto', sans-serif;
+}
+.mytabs {
+    display: flex;
+    flex-wrap: wrap;
+    min-width:80%;
+	min-height:80%;
+    margin: 50px auto;
+    padding: 25px;
+}
+.mytabs input[type="radio"] {
+    display: none;
+}
+.mytabs label {
+    padding: 5px;
+    background: #e2e2e2;
+    font-weight: bold;
+	font-size:13px;
+}
+
+.mytabs .tab {
+    width: 100%;
+    padding: 10px;
+    background: #fff;
+    order: 1;
+    display: none;
+}
+.mytabs .tab h2 {
+    font-size: 3em;
+}
+
+.mytabs input[type='radio']:checked + label + .tab {
+    display: block;
+}
+
+.mytabs input[type="radio"]:checked + label {
+    background: #fff;
+}
+
+#890 p{
+color:red
+
+}

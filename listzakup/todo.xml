@@ -1,0 +1,22 @@
+
+<?xml version="1.0"?>
+<catalog>
+	<product id="12">
+		<id>1423154215</id>
+		<nazwa>Mleko</nazwa>
+		<ilość>2</ilość>
+
+	</product>
+	<product id="67">
+		<id>1423154211</id>
+		<nazwa>Chleb</nazwa>
+		<ilość>3</ilość>
+
+	</product>
+	<product id="78">
+		<id>14231541</id>
+		<nazwa>Ogórek</nazwa>
+		<ilość>4</ilość>
+
+	</product>
+</catalog>
